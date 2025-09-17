@@ -1,0 +1,55 @@
+Just an FYI
+
+Users = Employees
+UsersData = EmployeesData
+
+UsersType = Events
+UsersTypeData = EventsData
+
+String inputText = textField.getText();
+                try 
+		{
+                    SimpleDateFormat dateFormat = new SimpleDateFormat("yyyy-MM-dd");
+                    Date parsedDate = dateFormat.parse(inputText);
+                    resultLabel.setText("Parsed Date: " + parsedDate.toString());
+                } 
+
+		catch (ParseException ex) 
+		{
+                    resultLabel.setText("Invalid Date Format");
+                }
+            
+        
+String userInput = JOptionPane.showInputDialog(null, "Do you want to continue?", "Confirmation", JOptionPane.YES_NO_OPTION)
+
+
+HighestSpender
+P2105
+P5432
+P9872
+P6542
+P4321
+P8761
+P9875
+P9874
+P6789
+P2103
+
+
+
+
+
+
+
+
+Employees can go. we dont need that
+
+Also make one for attendance that shows what patrons attended what events
+
+Make a linking table for employees and highest spenders. 
+
+Delete Employees table and employees type table
+
+
+
+The linking table is for each visit. Each time we say that this patron has atteneded and participated at this event. and this is how much they spent

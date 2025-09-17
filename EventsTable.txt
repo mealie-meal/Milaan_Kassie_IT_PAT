@@ -1,0 +1,17 @@
+Events Table Help Screen:
+
+Navigation Section:
+The Events Table is intended to show all Events and their related data. 
+
+The navigation buttons (First, Next, Previous, Last) are to aid with table navigation. 
+Each will show the corresponding row in the table
+
+Options and Save Options sections:
+Add, edit and delete Events using the corresponding buttons
+
+Search section:
+Use the Radio Buttons and Search Text Field to sort events by the criteria you enter. 
+
+Please enter valid data
+
+

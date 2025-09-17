@@ -1,0 +1,5 @@
+Employee Login Help Screen:
+
+Please enter your Employee PIN to continue to the Table Selection screen
+
+Example: E4567

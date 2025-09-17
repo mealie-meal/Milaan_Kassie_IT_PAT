@@ -1,0 +1,15 @@
+Visits Table Help Screen:
+
+The Navigation Section:
+The Visits Table is intended to show all Visits and their related data. 
+
+The navigation buttons (First, Next, Previous, Last) are to aid with table navigation. 
+Each will show the corresponding row in the table
+
+Options and Save Options sections:
+Add, edit and delete Patrons using the corresponding buttons
+
+Search section:
+Use the Radio Buttons and Search Text Field to sort and display Visits by the criteria you enter. 
+
+Please enter valid data

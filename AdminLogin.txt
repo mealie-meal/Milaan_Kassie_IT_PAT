@@ -1,0 +1,6 @@
+Admin Login Help Screen:
+
+Please enter your User PIN and Password to continue to the Table Selection screen
+
+Username Example: U1005
+Password Example: Admin5

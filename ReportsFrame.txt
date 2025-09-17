@@ -1,0 +1,6 @@
+Reports Frame Help Screen:
+
+Please click on a button to view the corresponding information relating to the various tables
+
+All data should be displayed in the Text Area 
+Graphs serve to aid in data visualisation and understanding

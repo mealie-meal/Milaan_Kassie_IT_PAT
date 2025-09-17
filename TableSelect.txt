@@ -1,0 +1,4 @@
+Table Select Help Screen:
+
+Navigate between the different screens via the onscreen buttons
+
